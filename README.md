@@ -1,5 +1,5 @@
 ## Day 1 - List Cleaner
--Description:-
+- Description:-
 This Python program removes duplicate values and invalid entries like None and empty strings from a list and returns a clean list.
 - Features:-
 Removes duplicates
@@ -13,14 +13,14 @@ Removed values: 4
 python Day1.py
 
 ## Day 2 - Student Score Analyzer
--Description:-
+- Description:-
 This python program calculate average,highest,lowest, count how many studnet score above average and create grade distribution for them.
--Features:-
+- Features:-
 Calculate Average
 Calculate Highest & Lowest
 Count students scored above average
 Create grade distribution
--Example:-
+- Example:-
 Input: [78,85,90,67,85,92,78]
 Output:
 Average: 81.71428571428571
@@ -28,5 +28,5 @@ Highest: 92
 Lowest: 67
 Students above average: 4
 Grades: {'A': [90, 92], 'B': [85, 82], 'C': [78, 78], 'FAIL': [67]}
--Run:-
+- Run:-
 python Day2.py
