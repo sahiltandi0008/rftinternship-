@@ -30,3 +30,30 @@ Students above average: 4
 Grades: {'A': [90, 92], 'B': [85, 82], 'C': [78, 78], 'FAIL': [67]}
 - Run:-
 python Day2.py
+
+## Day 4 - Dictionary - Based Phonebook
+- Description:-
+This Python program manages a phonebook using a dictionary. It allows users to store, search, update, and delete contact details efficiently.
+- Features:-
+Add new contact (name & phone number)
+Search contact by name
+Update existing contact
+Delete contact
+Display all contacts
+- Example:-
+Input:
+Add → Name: Rahul, Number: 9876543210
+Add → Name: Aman, Number: 9123456780
+
+Output:
+Phonebook: {'Rahul': '9876543210', 'Aman': '9123456780'}
+
+Search: Rahul → 9876543210
+Update: Rahul → 9999999999
+Delete: Aman
+
+Final Output:
+{'Rahul': '9999999999'}
+
+Run:-
+python Day3,py
