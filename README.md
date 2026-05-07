@@ -79,6 +79,7 @@ logs = [
     "WARNING MEMORY LOW"
 
 ]
+
 Output:
 Log Counts:
 ERROR : 2
