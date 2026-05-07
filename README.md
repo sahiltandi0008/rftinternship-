@@ -57,3 +57,35 @@ Display all contacts
 
 - Run:-
 python Day3.py
+
+## Day 4 - Simple Log Analyzer
+- Description:-
+This Python program analyzes log messages and counts how many times each log type appears.
+It also finds the most frequent log type using a dictionary.
+
+- Features
+Count ERROR logs
+Count INFO logs
+Count WARNING logs
+Ignore case sensitivity
+Find most frequent log type
+
+- Example:-
+Input:
+logs = [
+    "ERROR DISK FULL",
+    "INFO STARTED",
+    "ERROR FILE MISSING",
+    "WARNING MEMORY LOW"
+
+]
+Output:
+Log Counts:
+ERROR : 2
+INFO : 1
+WARNING : 1
+
+Most Frequent Log Type: ERROR
+
+- Run:-
+python Day4.py
