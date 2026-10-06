@@ -1,0 +1,10 @@
+Invoice Number,Customer Name,Customer Email,Phone,Invoice Date,Due Date,Item,Price,Quantity
+INV-1001,ABC Enterprises,abc@gmail.com,9876543210,01/10/2026,05/10/2026,Laptop,50000,1
+INV-1001,ABC Enterprises,abc@gmail.com,9876543210,01/10/2026,05/10/2026,Mouse,1500,1
+INV-1001,ABC Enterprises,abc@gmail.com,9876543210,01/10/2026,05/10/2026,Keyboard,2500,1
+INV-1002,XYZ Technologies,xyz@gmail.com,9876543211,02/10/2026,06/10/2026,Monitor,12000,2
+INV-1002,XYZ Technologies,xyz@gmail.com,9876543211,02/10/2026,06/10/2026,Keyboard,2000,1
+INV-1003,Tech Solutions,tech@gmail.com,9876543212,03/10/2026,04/10/2026,Laptop,60000,1
+INV-1003,Tech Solutions,tech@gmail.com,9876543212,03/10/2026,04/10/2026,Mouse,1200,2
+INV-1004,Digital World,digital@gmail.com,9876543213,04/10/2026,10/10/2026,Printer,15000,1
+INV-1005,Smart Systems,smart@gmail.com,9876543214,05/10/2026,07/10/2026,Scanner,8000,1

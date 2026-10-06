@@ -1,0 +1,4 @@
+Name: Sahil Tandi
+Skills: Python, Machine Learning, SQL, Pandas, NumPy, Git, GitHub
+Experience: 2 years
+Education: B.Tech

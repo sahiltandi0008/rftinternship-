@@ -1,0 +1,13 @@
+Employee_ID,Employee_Name,Department,Performance_Score,Attendance,Performance_Category,Attendance_Status
+E001,Komal,IT,88,92,Good,Good Attendance
+E002,Riya,HR,76,81,Good,Good Attendance
+E003,Anjali,IT,95,90,Excellent,Good Attendance
+E004,Neha,Finance,67,72,Average,Low Attendance
+E005,Priya,HR,84,88,Good,Good Attendance
+E006,Simran,IT,91,96,Excellent,Good Attendance
+E007,Muskan,Finance,73,69,Average,Low Attendance
+E008,Akash,IT,79,74,Good,Low Attendance
+E009,Rohan,HR,89,91,Good,Good Attendance
+E010,Aman,Finance,82,78,Good,Good Attendance
+E011,Shivam,IT,94,89,Excellent,Good Attendance
+E012,Mehak,HR,71,70,Average,Low Attendance
